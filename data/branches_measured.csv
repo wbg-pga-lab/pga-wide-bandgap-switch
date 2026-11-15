@@ -1,0 +1,10 @@
+state,technology,tier,resistor_a_kohm,resistor_b_kohm,assembled_ri_kohm,gate_pullup_kohm
+1,Si,Low,99.21,,99.21,
+2,GaN,Low,99.14,,99.14,10
+3,SiC,Low,99.24,,99.24,10.03
+4,Si,Mid,21.75,2.16,23.91,
+5,GaN,Mid,21.71,2.17,23.88,9.955
+6,SiC,Mid,21.73,2.17,23.9,9.97
+7,Si,High,9.914,0.671,10.585,
+8,GaN,High,9.99,0.672,10.662,9.97
+9,SiC,High,9.99,0.671,10.661,9.99

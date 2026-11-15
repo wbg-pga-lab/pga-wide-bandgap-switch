@@ -1,0 +1,15 @@
+item,part,qty,unit_price_usd,line_total_usd,source,notes
+Microcontroller,Arduino Uno R3,1,19.32,19.32,Arduino store (US),sale price; list 27.60
+Amplifier,Microchip MCP6004-I/P (DIP-14),1,0.6,0.6,Digi-Key,
+ADC,ADS1115 16-bit ADC module,1,14.95,14.95,Adafruit 1085,
+Display,16x2 character LCD,1,9.95,9.95,Adafruit 181,
+Push button,6 mm tactile switch (20-pack),1,2.5,2.5,Adafruit 367,smallest pack sold
+Si switch,Infineon IRLU024NPBF,3,1.83,5.49,Digi-Key,
+GaN switch,Renesas TP65H150G4PS,3,5.61,16.83,Digi-Key,
+SiC switch,Microchip MSC750SMA170B,3,5.44,16.32,Digi-Key,
+Level shifter,2N7000,6,0.66,3.96,Digi-Key,GaN and SiC branches only
+Resistors,"1% metal film, 1/4 W (100k x4, 22k x3, 2.2k x3, 10k x10, 680 x3, 1k x1, 33 x1)",25,0.1,2.5,Digi-Key,
+Breadboard,830-point solderless breadboard,1,5.95,5.95,Adafruit 239,
+Wires,Male/male jumper wires (40-pack),1,3.95,3.95,Adafruit 758,
+Gate-drive supply,"Bench DC supply, 10 V and 20 V",1,,,Lab equipment,not included in totals
+Meters,"Bench DMM, LCR meter",1,,,Lab equipment,not included in totals

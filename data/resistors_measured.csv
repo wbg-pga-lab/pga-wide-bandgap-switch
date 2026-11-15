@@ -1,0 +1,5 @@
+item,nominal_kohm,measured_kohm
+R1,10,9.78
+R2,1,0.98
+R3,0.033,0.03227
+Rf (shared feedback),100,98.35
