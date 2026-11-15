@@ -139,4 +139,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Acknowledgments
 
-Schematic drawn in KiCad. The authors thank Siddharth of MathWorks for his guidance on the Simulink model.
+Schematic drawn in KiCad. The authors thank Siddharth Jawahar, Application Engineer at MathWorks, for his guidance on the Simulink model.
