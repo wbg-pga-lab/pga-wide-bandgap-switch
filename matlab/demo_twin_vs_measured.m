@@ -1,5 +1,5 @@
 %% Physical circuit vs. Simulink model, direct comparison
-% PGA switch technology comparison (Quint R. Cabral, Shubaan Meyyappan)
+% PGA switch technology comparison (Quin R. Cabral, Shubaan Meyyappan)
 %
 % A nine-state programmable gain amplifier was built on the bench, and
 % a Simulink model of the same circuit uses datasheet values for each
